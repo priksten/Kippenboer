@@ -29,3 +29,14 @@ Python
 - qrcode
 
 # Screenshots
+
+![image](https://github.com/priksten/Kippenboer/assets/85739742/d23feef8-911b-4b54-9702-7c4e484b9b0c)
+Het programma vraagt aan de gebruiker om de volgende gegevens in te vullen:
+-	Een weeknummer (getal tussen 0 en 54)
+-	Aantal kippen dat eieren legt (getal tussen 2450 en 2525)
+-	Aantal medewerkers die in een week werken
+-	Aantal uren dat de medewerkers samen eieren verwerken
+De vragen verschijnen één voor één in het scherm. Bij de eerste twee gegevens, dus weeknummer en aantal kippen, wordt ook gecheckt of de gebruiker een getal heeft ingevoerd dat in het gewenste domein (dus resp (0,54) en (2450, 2525) ligt. Zolang dit niet het geval is, blijft het programma vragen om een getal in dit interval. Zodra dit getal is opgegeven gaat het programma door naar de volgende vraag. 
+
+Nadat de gebruiker een antwoord op de vierde vraag heeft ingevoerd, verschijnt de output:
+![image](https://github.com/priksten/Kippenboer/assets/85739742/0edd9d76-416c-4f48-9ad2-6b4f0aeb8784)
